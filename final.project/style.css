@@ -1,0 +1,40 @@
+body {
+    max-width: 40rem;
+    margin: 0 auto;
+      font-family: sans-serif;
+      max-width: 40rem;
+      margin: 0 auto;
+      padding: .75rem;
+    background-color: bisque; }
+
+h1 {
+    text-align: center;
+    background-color:aquamarine;
+    padding: 20px;
+    border: 10px solid black;
+
+    
+}
+      
+h3 {
+    color: aqua;
+    font-weight: bold;
+    font-size: larger;
+    font-style: oblique;
+    background-color: black;
+    text-align: center;
+ }
+
+p {
+    line-height: 1.75;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    width: 100%;
+    display: block;
+    margin: 4rem 0;
+    border: 10px solid black;
+
+}
